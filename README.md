@@ -17,3 +17,7 @@ Spreadsheets are designed for one person, or a small group of people, to store a
 Large databases achieve this by housing data on servers that are made of powerful computers. These servers can sometimes be built using hundreds or thousands of computers in order to have the computational power and storage capacity necessary for many users to access the database simultaneously. While a spreadsheet or database may be accessible to any number of people, it is often owned by a business and managed by an appointed individual that has complete control over how it works and the data within it. [Know more about blockchain.](https://www.investopedia.com/terms/b/blockchain.asp)
 
 
+### Best Learning Resources
+- [DApp University](https://www.youtube.com/c/DappUniversity/featured) - One of the Best Youtube Channels to make you go zero to hero full-stack developer using blockchain
+- []
+
