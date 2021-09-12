@@ -6,5 +6,11 @@ Looking at the advantages offered by Bitcoin − a digital currency, people want
 
 This documentation is designed to help you build with Ethereum. It covers Ethereum as a concept, explains the Ethereum tech stack, and documents advanced topics for more complex applications and use cases.
 
+### [Ethereum Introduction](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
+
+
+
+
+### Resources
 - [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 
