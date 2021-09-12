@@ -13,4 +13,5 @@ This documentation is designed to help you build with Ethereum. It covers Ethere
 
 ### Resources
 - [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+- [Mastering Ethereum Book](https://github.com/ethereumbook/ethereumbook)
 
