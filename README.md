@@ -19,5 +19,5 @@ Large databases achieve this by housing data on servers that are made of powerfu
 
 ### Best Learning Resources
 - [DApp University](https://www.youtube.com/c/DappUniversity/featured) - One of the Best Youtube Channels to make you go zero to hero full-stack developer using blockchain
-- []
+
 
